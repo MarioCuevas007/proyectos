@@ -17,6 +17,8 @@ $tiempo = new DateTime();
 
 echo "hola como estan";
 
+echo "el conocimiento es poder";
+
 
 
 print_r($tiempo);
